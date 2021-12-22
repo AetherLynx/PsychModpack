@@ -1,6 +1,16 @@
 # PsychModpack
 Un modpack completamente en Psych Engine - Contiene más de 50+ mods y 100+ canciones, y varias canciones están optimizadas para PC's de bajo rendimiento.
 
+# Capturas
+![image](https://user-images.githubusercontent.com/81195994/147024016-09077f6e-17d8-44db-94c2-c80e33682eab.png)
+![image](https://user-images.githubusercontent.com/81195994/147024066-8f70aea7-2118-454a-8fff-25a26f000d88.png)
+![image](https://user-images.githubusercontent.com/81195994/147024119-0024533a-c7eb-4d80-ba5a-268e824a79e4.png)
+![image](https://user-images.githubusercontent.com/81195994/147024152-1ee203a9-36d2-4074-9463-9e709d5247ee.png)
+![image](https://user-images.githubusercontent.com/81195994/147024244-5905ed5c-c8ed-4e96-a6fc-d8832975fcc8.png)
+![image](https://user-images.githubusercontent.com/81195994/147024312-1574cefa-07ef-49db-b582-b4e7468c16fb.png)
+![image](https://user-images.githubusercontent.com/81195994/147024379-4b14e429-004b-4986-83d1-fd564a861648.png)
+
+
 
 # LISTA COMPLETA DE CANCIONES (V8)
 # VS Whitty
