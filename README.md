@@ -146,3 +146,53 @@ Un modpack completamente en Psych Engine - Contiene más de 50+ mods y 100+ canc
 - Snake Eyes
 - Sansational
 - Last Reel
+# VS PSYCHIC
+- Psychic
+- Wilter
+- Uproar
+# PLANTS VS RAPPERS
+- Bloom n Brainz
+- Bad Bash
+# BOB ONSLAUGHT
+- Ron
+- Trouble
+- Onslaught
+# VS QT
+- Censory Overload
+- Termination
+# HEART ATTACK RAMPAGE
+- Tug O War
+# Hex Mod Weekend Update
+- Glithcer
+- Glitcher Remix
+- Cooling
+- Detected
+# TAILS GETS TROLLED
+- Talentless Fox
+- No Villains
+# VS AFLAC
+- Loaf
+- Blazeborn
+- The End
+# VS SKY
+- Wife Forever
+- SKy
+- Manifest
+# FNF ONLINE CHALLENGES
+- Accelerant
+- Unloaded
+- Challengedd
+
+
+Talentless Fox | No Villains
+
+VS Aflac
+Loaf | Blazeborn | The End
+
+VS Sky
+Wife Forever | Sky | Manifest
+
+FNF ONLINE CHALLENGES (Hard, Fucked)
+Accelerant | Unloaded | Challengedd 
+
+a
