@@ -1,18 +1,31 @@
-# PsychModpack
-Un modpack completamente en Psych Engine - Contiene más de 50+ mods y 100+ canciones, y varias canciones están optimizadas para PC's de bajo rendimiento.
+# Psych Modpack
+This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier/options menu in-game, an stylized gameplay HUD, a results screen, etc. 
 
 # Capturas
-![image](https://user-images.githubusercontent.com/81195994/147024016-09077f6e-17d8-44db-94c2-c80e33682eab.png)
-![image](https://user-images.githubusercontent.com/81195994/147024066-8f70aea7-2118-454a-8fff-25a26f000d88.png)
-![image](https://user-images.githubusercontent.com/81195994/147024119-0024533a-c7eb-4d80-ba5a-268e824a79e4.png)
-![image](https://user-images.githubusercontent.com/81195994/147024152-1ee203a9-36d2-4074-9463-9e709d5247ee.png)
-![image](https://user-images.githubusercontent.com/81195994/147024244-5905ed5c-c8ed-4e96-a6fc-d8832975fcc8.png)
-![image](https://user-images.githubusercontent.com/81195994/147024312-1574cefa-07ef-49db-b582-b4e7468c16fb.png)
-![image](https://user-images.githubusercontent.com/81195994/147024379-4b14e429-004b-4986-83d1-fd564a861648.png)
+## Title
+![image](https://user-images.githubusercontent.com/81195994/153263123-cd5966d4-5d92-4e02-9c7a-1e05bf5c1b80.png)
+
+## Menu
+![image](https://user-images.githubusercontent.com/81195994/153263174-2140ebd2-8ed7-410b-a86c-cdda4c64747f.png)
+
+## Freeplay Menu
+![image](https://user-images.githubusercontent.com/81195994/153263944-a5dbf9ec-c327-4508-a34a-1bd1bca3a937.png)
+
+## In-Game (Inspired from [PE Deluxe](https://github.com/FridayNightGachaTrap/Psych-Engine-Deluxe))
+![image](https://user-images.githubusercontent.com/81195994/153264063-45d3ca32-a278-4052-b19e-cdcdd258eea6.png)
+
+## Built-In Mechanics
+![image](https://user-images.githubusercontent.com/81195994/153264185-34d8995b-ccc4-44b6-910a-4c833612e17f.png) ![image](https://user-images.githubusercontent.com/81195994/153264603-5d87feb3-c6c4-4ad1-b9c2-c7e4fdf85c44.png)
+
+## Results Screen 
+![image](https://user-images.githubusercontent.com/81195994/153266008-28e0960b-ffc1-49ca-9376-0762ffcb897b.png)
+
+## Options Menu In-Game
+![image](https://user-images.githubusercontent.com/81195994/153266693-86cb45ab-44cb-483d-9b16-e69f6d091aa3.png) ![image](https://user-images.githubusercontent.com/81195994/153276075-d88f2071-1e89-4572-8abd-b5aab5a051af.png)
 
 
 
-# LISTA COMPLETA DE CANCIONES (V11)
+# FULL SONG LIST (V11)
 #VS WHITTY DEFINITIVE EDITION
 - Lo Fight
 - Overhead
@@ -185,27 +198,11 @@ Un modpack completamente en Psych Engine - Contiene más de 50+ mods y 100+ canc
 - Accelerant
 - Unloaded
 - Challengedd
-
-#TAILS GETS TROLLED
-- Talentless Fox
-- No Villains
-
-#VS AFLAC
-- Loaf
-- Blazeborn
-- The End
-
-#VS SKY
-- Wife Forever
-- Sky
-- Manifest
-
-#FNF ONLINE CHALLENGES (Hard, Fucked)
+# FNF ONLINE CHALLENGES (Hard, Fucked)
 - Accelerant
 - Unloaded
 - Challengedd 
-
-#VS TABI
+# VS TABI
 - My Battle
 - Last Chance
 - Genocide
