@@ -1,6 +1,14 @@
 # Psych Modpack
 This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier/options menu in-game, an stylized gameplay HUD, a results screen, etc. 
 
+CREDITS:
+- [PE Deluxe UI Design Inspiration + Song Name Toast Code](https://github.com/FridayNightGachaTrap/Psych-Engine-Deluxe)
+- [Side Info Script](https://github.com/ShadowMario/FNF-PsychEngine/discussions/3670)
+- [Code i based on for the Options Menu](https://github.com/ShadowMario/FNF-PsychEngine/discussions/2385)
+- [Code i based on for the Results Screen](https://github.com/ShadowMario/FNF-PsychEngine/discussions/2412)
+- [Moving Arrows](https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)
+- [Kade Engine Rating System](https://github.com/ShadowMario/FNF-PsychEngine/discussions/4411)
+
 # Capturas
 ## Title
 ![image](https://user-images.githubusercontent.com/81195994/153263123-cd5966d4-5d92-4e02-9c7a-1e05bf5c1b80.png)
