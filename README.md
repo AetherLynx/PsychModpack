@@ -12,12 +12,15 @@ Un modpack completamente en Psych Engine - Contiene más de 50+ mods y 100+ canc
 
 
 
-# LISTA COMPLETA DE CANCIONES (V8)
-# VS Whitty
-- LoFight
+# LISTA COMPLETA DE CANCIONES (V11)
+#VS WHITTY DEFINITIVE EDITION
+- Lo Fight
 - Overhead
 - Ballistic
-- Ballistic Old
+- Underground
+- Low Rise
+- Hungry
+- Faucet
 # Shaggy Mod (4k Only)
 - Eruption
 - Kaio Ken
@@ -183,16 +186,26 @@ Un modpack completamente en Psych Engine - Contiene más de 50+ mods y 100+ canc
 - Unloaded
 - Challengedd
 
+#TAILS GETS TROLLED
+- Talentless Fox
+- No Villains
 
-Talentless Fox | No Villains
+#VS AFLAC
+- Loaf
+- Blazeborn
+- The End
 
-VS Aflac
-Loaf | Blazeborn | The End
+#VS SKY
+- Wife Forever
+- Sky
+- Manifest
 
-VS Sky
-Wife Forever | Sky | Manifest
+#FNF ONLINE CHALLENGES (Hard, Fucked)
+- Accelerant
+- Unloaded
+- Challengedd 
 
-FNF ONLINE CHALLENGES (Hard, Fucked)
-Accelerant | Unloaded | Challengedd 
-
-a
+#VS TABI
+- My Battle
+- Last Chance
+- Genocide
