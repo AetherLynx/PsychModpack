@@ -9,7 +9,7 @@ CREDITS:
 - [Moving Arrows](https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)
 - [Kade Engine Rating System](https://github.com/ShadowMario/FNF-PsychEngine/discussions/4411)
 
-# Capturas
+# SCREENSHOTS
 ## Title
 ![image](https://user-images.githubusercontent.com/81195994/153263123-cd5966d4-5d92-4e02-9c7a-1e05bf5c1b80.png)
 
