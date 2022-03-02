@@ -16,6 +16,10 @@ CREDITS:
 ## Menu
 ![image](https://user-images.githubusercontent.com/81195994/153263174-2140ebd2-8ed7-410b-a86c-cdda4c64747f.png)
 
+## NEW SETTINGS MENU LET'S GOOO
+![image](https://user-images.githubusercontent.com/81195994/156418914-8f8e0aad-c4b9-4ee6-afb2-5363caf86aa6.png)
+
+
 ## Freeplay Menu
 ![image](https://user-images.githubusercontent.com/81195994/153263944-a5dbf9ec-c327-4508-a34a-1bd1bca3a937.png)
 
