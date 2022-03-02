@@ -26,6 +26,11 @@ CREDITS:
 ## In-Game (Inspired from [PE Deluxe](https://github.com/FridayNightGachaTrap/Psych-Engine-Deluxe))
 ![image](https://user-images.githubusercontent.com/81195994/153264063-45d3ca32-a278-4052-b19e-cdcdd258eea6.png)
 
+## New In-Game
+###### More vanilla friendly and because old ui is obsolete :(
+![image](https://user-images.githubusercontent.com/81195994/156419194-4836bf40-7c3f-4465-8a0b-c225be55e934.png)
+
+
 ## Built-In Mechanics
 ![image](https://user-images.githubusercontent.com/81195994/153264185-34d8995b-ccc4-44b6-910a-4c833612e17f.png) ![image](https://user-images.githubusercontent.com/81195994/153264603-5d87feb3-c6c4-4ad1-b9c2-c7e4fdf85c44.png)
 
