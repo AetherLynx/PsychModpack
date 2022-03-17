@@ -1,6 +1,8 @@
 # Psych Modpack
 This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier/options menu in-game, an stylized gameplay HUD, a results screen, etc. 
 
+### This description is outdated, screenshots and credits may be from older versions.
+
 CREDITS:
 - [PE Deluxe UI Design Inspiration + Song Name Toast Code](https://github.com/FridayNightGachaTrap/Psych-Engine-Deluxe)
 - [Side Info Script](https://github.com/ShadowMario/FNF-PsychEngine/discussions/3670)
