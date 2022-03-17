@@ -1,4 +1,8 @@
 #### Psych Modpack v1.3
+17/03/22
+- [Beta] Added **Crack Ratings** system by **Sir Top Hat#8726**
+___________________________________________
+16/03/22
 - Added Funkdela Catalogue Category
 - Added Think Song
 - Fixed Crashing when entering a song in v1.2
