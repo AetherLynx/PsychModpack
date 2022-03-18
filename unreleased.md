@@ -1,6 +1,10 @@
 #### Psych Modpack v1.3
 17/03/22
-- [Beta] Added **Crack Ratings** system by **Sir Top Hat#8726**
+- Added **Crack Ratings** system by **Sir Top Hat#8726**
+- Added Vs CAMELLIA Category
+- Added all the 10 Songs to the Camellia category.
+  
+  
 ___________________________________________
 16/03/22
 - Added Funkdela Catalogue Category
@@ -12,7 +16,7 @@ ___________________________________________
   **(Scrollspeed, Botplay Toggle, Play As Opponent, Quick Access to Settings Menu)**
 
 #### Work left
-- Add entire Camellia Mod (0% done)
+- **~Add entire Camellia Mod~** 100% done
 - Add Racetraitors note mechanics (10% done)
 - Add more mods (3 mods aprox. 6 songs min.) (0% done)
 - Remake assets - Freeplay Background - Title Screen - Sounds (0% done)
