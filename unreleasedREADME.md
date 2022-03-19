@@ -37,7 +37,7 @@ an improved vanilla-like ui, a results screen, etc.
 ## Options Menu In-Game
 <img src="https://user-images.githubusercontent.com/81195994/159134110-a7ab2ea7-1c9d-4dbe-b25c-0ba296c48c1c.png">
 
-# FULL SONG LIST (V11)
+# FULL SONG LIST | V13
 #VS WHITTY DEFINITIVE EDITION
 - Lo Fight
 - Overhead
@@ -214,10 +214,6 @@ an improved vanilla-like ui, a results screen, etc.
 - SKy
 - Manifest
 # FNF ONLINE CHALLENGES
-- Accelerant
-- Unloaded
-- Challengedd
-# FNF ONLINE CHALLENGES (Hard, Fucked)
 - Accelerant
 - Unloaded
 - Challengedd 
