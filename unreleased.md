@@ -1,4 +1,8 @@
 #### Psych Modpack v1.3
+19/03/22
+- Added Blue to the Extras Category
+- Charted Blue by BBPanzu
+
 18/03/22
 - Added Extras category
 - Added "Atrocity" Song [(CHART BY DEMOLITIONDON96)](https://github.com/DEMOLITIONDON96)
