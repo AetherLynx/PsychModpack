@@ -1,4 +1,7 @@
 #### Psych Modpack v1.3
+
+## AetherLynx
+
 19/03/22
 - Added Blue to the Extras Category
 - Charted Blue by BBPanzu
@@ -22,9 +25,8 @@ ___________________________________________
   
   **(Scrollspeed, Botplay Toggle, Play As Opponent, Quick Access to Settings Menu)**
 
-#### Work left
-- **~Add entire Camellia Mod~** 100% done
-- Add Racetraitors note mechanics (10% done)
-- **~Add more mods (3 mods aprox. 6 songs min.)~** (100% done)
-- **~Remake assets - Freeplay Background - Title Screen - Sounds~** (100% done)
-- ~**!!** Fix damage, fire, bomb, etc. **(bad notes)** to have less strum time~ (0% done | DISCARDED)
+
+## Lun29
+
+20/03/22
+- Simplified Title Screen
