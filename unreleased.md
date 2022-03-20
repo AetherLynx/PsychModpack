@@ -30,3 +30,4 @@ ___________________________________________
 
 20/03/22
 - Simplified Title Screen
+- Made adjustments to Slaughter Speedway, Atrocity and Blue charts
