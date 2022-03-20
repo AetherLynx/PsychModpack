@@ -31,3 +31,8 @@ ___________________________________________
 20/03/22
 - Simplified Title Screen
 - Made adjustments to Slaughter Speedway, Atrocity and Blue charts
+- Modifier Menu now automatically hides when song ends
+- Added a Resume Delay script by **Teniente Mantequilla#0139** on Psych discord
+- Removed various testing debug print leftovers
+- Added a Custom Healthbar
+- Added a Finish Song & Restart Song button for the modifier menu.
