@@ -36,3 +36,4 @@ ___________________________________________
 - Removed various testing debug print leftovers
 - Added a Custom Healthbar
 - Added a Finish Song & Restart Song button for the modifier menu.
+- why were there leftover scripts that's kinda dumb lmao
