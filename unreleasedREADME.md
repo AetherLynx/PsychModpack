@@ -2,7 +2,11 @@
 This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier menu in-game, options menu,
 an improved vanilla-like ui, a results screen, etc. 
 
-###### *Description updated for V13!*
+### IMPORTANT:
+Some scripts aren't mine, if you are the original creator of a script or want to have credit for a script you made being here,
+contact me to my discord **lynx#8647** , i try to credit the most i can, but if you don't want your stuff being here just tell me.
+
+###### *Description updated for V13*
 
 ### CREDITS:
 - [Moving Arrows](https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)
