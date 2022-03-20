@@ -12,6 +12,9 @@ contact me to my discord **lynx#8647** , i try to credit the most i can, but if 
 - [Moving Arrows](https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)
 - [Atrocity Chart by DEMOLITIONDON96](https://github.com/DEMOLITIONDON96)
 - [Play as opponent LUA Script by SrtHero](https://github.com/ShadowMario/FNF-PsychEngine/discussions/6745)
+- [Resume Delay Script](https://discord.com/channels/922849922175340586/922851578996744252/948364247988064266) (PSYCH ENGINE DISCORD by TENIENTE MANTEQUILLA)
+- [Crack Ratings](https://discord.com/channels/922849922175340586/922851578996744252/939380585124757575) (PSYCH ENGINE DISCORD BY SIR TOP HAT)
+- [Custom HealthBar](https://discord.com/channels/922849922175340586/922851578996744252/941509137601269800) (PSYCH ENGINE DISCORD BY CYN)
 
 ### SPECIAL THANKS:
 - [Frantastic24](https://github.com/frantastic24)
