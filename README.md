@@ -1,50 +1,50 @@
-# Psych Modpack
-This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier/options menu in-game, an stylized gameplay HUD, a results screen, etc. 
+# Psych Modpack v13
+This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier menu in-game, options menu,
+an improved vanilla-like ui, a results screen, etc. 
 
-### This description is outdated, screenshots and credits may be from older versions.
+### IMPORTANT:
+Some scripts aren't mine, if you are the original creator of a script or want to have credit for a script you made being here,
+contact me to my discord **lynx#8647** , i try to credit the most i can, but if you don't want your stuff being here just tell me.
 
-CREDITS:
-- [PE Deluxe UI Design Inspiration + Song Name Toast Code](https://github.com/FridayNightGachaTrap/Psych-Engine-Deluxe)
-- [Side Info Script](https://github.com/ShadowMario/FNF-PsychEngine/discussions/3670)
-- [Code i based on for the Options Menu](https://github.com/ShadowMario/FNF-PsychEngine/discussions/2385)
-- [Code i based on for the Results Screen](https://github.com/ShadowMario/FNF-PsychEngine/discussions/2412)
+###### *Description updated for V13*
+
+### CREDITS:
 - [Moving Arrows](https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)
-- [Kade Engine Rating System](https://github.com/ShadowMario/FNF-PsychEngine/discussions/4411)
+- [Atrocity Chart by DEMOLITIONDON96](https://github.com/DEMOLITIONDON96)
+- [Play as opponent LUA Script by SrtHero](https://github.com/ShadowMario/FNF-PsychEngine/discussions/6745)
+- [Resume Delay Script](https://discord.com/channels/922849922175340586/922851578996744252/948364247988064266) (PSYCH ENGINE DISCORD by TENIENTE MANTEQUILLA)
+- [Crack Ratings](https://discord.com/channels/922849922175340586/922851578996744252/939380585124757575) (PSYCH ENGINE DISCORD BY SIR TOP HAT)
+- [Custom HealthBar](https://discord.com/channels/922849922175340586/922851578996744252/941509137601269800) (PSYCH ENGINE DISCORD BY CYN)
+
+### SPECIAL THANKS:
+- [Frantastic24](https://github.com/frantastic24)
+- [DEMOLITIONDON96](https://github.com/DEMOLITIONDON96)
+- [Cherif107](https://github.com/Cherif107)
 
 # SCREENSHOTS
-## Title
-![image](https://user-images.githubusercontent.com/81195994/153263123-cd5966d4-5d92-4e02-9c7a-1e05bf5c1b80.png)
+<img src="https://user-images.githubusercontent.com/81195994/153263123-cd5966d4-5d92-4e02-9c7a-1e05bf5c1b80.png" width="500"> <img src="https://user-images.githubusercontent.com/81195994/159132908-1b3f74a3-0f8c-40c7-9add-d581e7e4e9bd.png" width="500">
 
-## Menu
-![image](https://user-images.githubusercontent.com/81195994/153263174-2140ebd2-8ed7-410b-a86c-cdda4c64747f.png)
+<img src="https://user-images.githubusercontent.com/81195994/156418914-8f8e0aad-c4b9-4ee6-afb2-5363caf86aa6.png" width="500"> <img src="https://user-images.githubusercontent.com/81195994/159133895-fee77131-77d9-4a98-8fa3-2e6ac81881ef.png" width="500">
 
-## NEW SETTINGS MENU LET'S GOOO
-![image](https://user-images.githubusercontent.com/81195994/156418914-8f8e0aad-c4b9-4ee6-afb2-5363caf86aa6.png)
+## In-Game (Normal play and Opponent play)
+###### More vanilla-like ui now.
+<img src="https://user-images.githubusercontent.com/81195994/159133032-faaeb1c7-8082-4069-8019-8422a8365434.png" width="700">
+<img src="https://user-images.githubusercontent.com/81195994/159133044-1c67a933-9239-4443-8b3e-d9dbde35f33f.png" width="700">
 
-
-## Freeplay Menu
-![image](https://user-images.githubusercontent.com/81195994/153263944-a5dbf9ec-c327-4508-a34a-1bd1bca3a937.png)
-
-## In-Game (Inspired from [PE Deluxe](https://github.com/FridayNightGachaTrap/Psych-Engine-Deluxe))
-![image](https://user-images.githubusercontent.com/81195994/153264063-45d3ca32-a278-4052-b19e-cdcdd258eea6.png)
-
-## New In-Game
-###### More vanilla friendly and because old ui is obsolete :(
-![image](https://user-images.githubusercontent.com/81195994/156419194-4836bf40-7c3f-4465-8a0b-c225be55e934.png)
+## Built-In Mechanics (Events, Notes, etc.)
+<img src="https://user-images.githubusercontent.com/81195994/159133255-7b0130b7-6aca-4417-9fe8-1980e4cedf9a.png" width="700">
+<img src="https://user-images.githubusercontent.com/81195994/159133980-0648c527-cdc6-41c3-b6a4-359f0504133c.png" width="700">
+<img src="https://user-images.githubusercontent.com/81195994/159134030-f6cd3ec3-396a-4b23-a31b-7db44cdd468f.png" width="700">
 
 
-## Built-In Mechanics
-![image](https://user-images.githubusercontent.com/81195994/153264185-34d8995b-ccc4-44b6-910a-4c833612e17f.png) ![image](https://user-images.githubusercontent.com/81195994/153264603-5d87feb3-c6c4-4ad1-b9c2-c7e4fdf85c44.png)
 
 ## Results Screen 
-![image](https://user-images.githubusercontent.com/81195994/153266008-28e0960b-ffc1-49ca-9376-0762ffcb897b.png)
+<img src="https://user-images.githubusercontent.com/81195994/153266008-28e0960b-ffc1-49ca-9376-0762ffcb897b.png" width="700">
 
 ## Options Menu In-Game
-![image](https://user-images.githubusercontent.com/81195994/153266693-86cb45ab-44cb-483d-9b16-e69f6d091aa3.png) ![image](https://user-images.githubusercontent.com/81195994/153276075-d88f2071-1e89-4572-8abd-b5aab5a051af.png)
+<img src="https://user-images.githubusercontent.com/101958916/159179181-d63fefe8-1ecc-4581-a45b-7771496259c5.png">
 
-
-
-# FULL SONG LIST (V11)
+# FULL SONG LIST | V13
 #VS WHITTY DEFINITIVE EDITION
 - Lo Fight
 - Overhead
@@ -205,6 +205,13 @@ CREDITS:
 # TAILS GETS TROLLED
 - Talentless Fox
 - No Villains
+- Die Bastards
+- High Shovel
+- Taste For Blood
+- Tsuraran Fox
+- No Heroes
+- No Bitches
+- Groovy Fox
 # VS AFLAC
 - Loaf
 - Blazeborn
@@ -216,12 +223,43 @@ CREDITS:
 # FNF ONLINE CHALLENGES
 - Accelerant
 - Unloaded
-- Challengedd
-# FNF ONLINE CHALLENGES (Hard, Fucked)
-- Accelerant
-- Unloaded
 - Challengedd 
 # VS TABI
 - My Battle
 - Last Chance
 - Genocide
+# MARIOS MADNESS
+- Its a Me
+- Golden Land
+- I Hate You
+- Apparition
+- Alone
+- Powerdown
+- Race Traitors
+# VS DEIMOS (exclusive)
+- Slaughter Speedway (Hard, Double-Play)
+# FUNKIN AT FREDDY'S
+- Celebrate
+- Follow Me
+- Midnight
+- You Can't
+- Salvage
+- Nightmare
+- Umbra
+- Just A Theory
+# FUNKDELA CATALOGUE
+- Think
+# VS CAMELLIA
+- First Town
+- Liquated
+- Why do you hate me?
+- Quaoar
+- Crystalized
+- Nacreous Snowmelt
+- Ghost
+- Ghoul
+- Ghost VIP
+- Lioness Pride
+# EXTRAS
+- Atrocity (by Saster)
+- Blue (by bbpanzu)
