@@ -1,4 +1,4 @@
-# Psych Modpack v13
+# Psych Modpack v13h
 This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier menu in-game, options menu,
 an improved vanilla-like ui, a results screen, etc. 
 
@@ -6,7 +6,7 @@ an improved vanilla-like ui, a results screen, etc.
 Some scripts aren't mine, if you are the original creator of a script or want to have credit for a script you made being here,
 contact me to my discord **lynx#8647** , i try to credit the most i can, but if you don't want your stuff being here just tell me.
 
-###### *Description updated for V13*
+###### *Description updated for V13h*
 
 ### CREDITS:
 - [Moving Arrows](https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)
@@ -44,7 +44,7 @@ contact me to my discord **lynx#8647** , i try to credit the most i can, but if 
 ## Options Menu In-Game
 <img src="https://user-images.githubusercontent.com/101958916/159179181-d63fefe8-1ecc-4581-a45b-7771496259c5.png">
 
-# FULL SONG LIST | V13
+# FULL SONG LIST | V13h
 #VS WHITTY DEFINITIVE EDITION
 - Lo Fight
 - Overhead
