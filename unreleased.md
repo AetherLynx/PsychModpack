@@ -4,10 +4,12 @@
 - Added Skip Intro option to Atrocity
 - Now if you press up in the options menu at the top it will take you to the latest option, and if you're on the
   latest and press down, it will take you to the first, instead of not doing anything
+#### Bugfixes
+- Fixed options menu triggering the previous **Crash when entering and Settings not working** glitch when pressing R without changing any option
+- Settings now save even if you didn't change any setting, because it triggered other bugs
 
 ___
 ### To-Do
-#### Settings Menu
 Add Options
 - Hide Icons: OFF
 - Change Timebar Color on Beat: OFF
