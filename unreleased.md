@@ -18,6 +18,10 @@
 - Removed the opponent's random ratings because it wasn't useful (this also removes the health drain)
 - Disabled the rating's scaling/tween on score pop-up
 - Added backgrounds to the settings menu: Psych Flame BG, Mt. Silver Snow, Kaboom, Nyan Cat Space, Retrospecter BG
+- Replaced "Icon Bop" option with "Background Bop" because heatlh bar icons are removed now :p
+
+- Added Options:
+  Change TimeBar color on Beat Hit
 
 
 #### Bugfixes
@@ -34,7 +38,6 @@ ___
 ###### (i'm doing this shit fam :>)
 ### To-Do
 Add Options
-- Change Timebar Color on Beat: OFF
 - Resume Delay: ON
 - Show Results Screen: ON
 - No Health Gain: OFF
