@@ -17,28 +17,14 @@
 - <img src="https://user-images.githubusercontent.com/81195994/161405603-a26eaf86-755c-47a9-bef1-3dad3cca5e2a.png" width = "500">
 - Removed the opponent's random ratings because it wasn't useful (this also removes the health drain)
 - Disabled the rating's scaling/tween on score pop-up
-- Added backgrounds to the settings menu: Psych Flame BG, Mt. Silver Snow, Kaboom, Nyan Cat Space, Retrospecter BG
-- Replaced "Icon Bop" option with "Background Bop" because heatlh bar icons are removed now :p
-
-- Added Options:
-  Change TimeBar color on Beat Hit
 
 
 #### Bugfixes
-- Fixed options menu triggering the previous **Crash when entering and Settings not working** glitch when pressing R without changing any option
-- Settings now save even if you didn't change any setting, because it triggered other bugs
 - Fixed bugs with Middlescroll and Downscroll
-- Settings menu now saves your background image preference.
-
 
 #### Songs
 - Ben's Adventure (Promise, Hijinx)
 
 ___
-###### (i'm doing this shit fam :>)
-### To-Do
-Add Options
-- Resume Delay: ON
-- Show Results Screen: ON
-- No Health Gain: OFF
-- Health Drain: OFF
+
+###### (Settings are being re-made)
