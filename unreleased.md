@@ -18,12 +18,18 @@
 - Removed the opponent's random ratings because it wasn't useful (this also removes the health drain)
 - Disabled the rating's scaling/tween on score pop-up
 
+- Added mechanics for Week 1 indie cross (this took me 5 hours help) = Cuphead Blue Pellets Mechanic, Parry Note, Green Pellets Mechanic, Dodge Mechanic
+
+![image](https://user-images.githubusercontent.com/81195994/162595727-226de730-aa39-4822-addc-0c790fa63a46.png)
+
+
 
 #### Bugfixes
 - Fixed bugs with Middlescroll and Downscroll
 
 #### Songs
 - Ben's Adventure (Promise, Hijinx)
+- ENTIRE INDIE CROSS (week1, week2, week3, bonus songs, nightmare songs)
 
 ___
 
