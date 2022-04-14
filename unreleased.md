@@ -15,6 +15,7 @@
 - Fixed game crashing when loading a song if the user hasn't entered settings menu, instead a Warning will display.
 - Added options: **Background Bop, Rainbow Timebar, Opponent Health Drain, Show Results Screen.**
 - Changed menu background and sounds to Indie Cross'.
+- Deleted many leftover assets, songs, and data. **(File size went from 2.73gb to 2.05 lol)**
 
 
 
@@ -28,7 +29,7 @@
   
 #### Screenshots
 
-- New settings
+- New settings wow
 
 ![image](https://user-images.githubusercontent.com/101958916/163276157-af3dd613-0c1d-48f0-b7a4-f0d5714ad37d.png)
 
