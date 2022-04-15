@@ -15,6 +15,7 @@
 - Fixed game crashing when loading a song if the user hasn't entered settings menu, instead a Warning will display.
 - Changed menu background and sounds to Indie Cross'.
 - Deleted many leftover assets, songs, and data. **(File size went from 2.73gb to 2.05 lol)**
+- Story mode re-enabled, now it doesn't crash when entering, and you can play vanilla songs.
 
 
 ___
