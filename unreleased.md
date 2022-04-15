@@ -25,6 +25,7 @@ ___
 - **Opponent Health Drain:** Drain health on opponent note hit
 - **Show Results Screen:** Show results screen with your song performance
 - **Show BF Singing:** Shows BF singing to your notes instead of just the background
+- **Indie Cross Mechanics:** Toggle indie cross mechanics, notetypes, dodge events, health drain, etc.
 ___
 
 ###### I just realized i/we have to chart all indie cross' songs bc of special notes appearing offscreen and bug the chart looool 🥲
