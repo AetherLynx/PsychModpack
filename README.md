@@ -1,3 +1,9 @@
+# Abandoned
+Progress made since **v13h** will be updated into **v14b**, which won't contain changelog or anything, many bugs, unfinished,
+but it's just to update the release and will be a pre-release version. After that this project won't be mantained or updated furthermore.
+
+___
+
 # Psych Modpack v13h
 This is a Psych Engine modpack containing over 25+ mods (190 songs), lots of customization including modifier menu in-game, options menu,
 an improved vanilla-like ui, a results screen, etc. 
